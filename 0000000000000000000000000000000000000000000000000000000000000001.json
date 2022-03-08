@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Boss"
+    },
+    {
+      "trait_type": "Lightning",
+      "value": "Mytic"
+    }
+  ],
+  "description": "Land of the mightiest god of olympus boss of bosses.",
+  "image": "https://raw.githubusercontent.com/Nachota66/Lands_CryptoGods/main/Land%20Zeus.png",
+  "name": "Land Zeus"
+}
