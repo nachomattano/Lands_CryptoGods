@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Servant"
+    },
+    {
+      "trait_type": "Blacksmith",
+      "value": "Common"
+    }
+  ],
+  "description": "Land of the blacksmith of the gods.",
+  "image": "https://raw.githubusercontent.com/Nachota66/Lands_CryptoGods/main/Land%20Hefesto.png",
+  "name": "Land Hefesto"
+}
