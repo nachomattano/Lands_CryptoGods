@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Spartan"
+    },
+    {
+      "trait_type": "Blood",
+      "value": "Epic"
+    }
+  ],
+  "description": "Land of the god of war.",
+  "image": "https://raw.githubusercontent.com/Nachota66/Lands_CryptoGods/main/Land%20Ares.png",
+  "name": "Land Ares"
+}
