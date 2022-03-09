@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Goddess"
+    },
+    {
+      "trait_type": "Nature",
+      "value": "Uncommon"
+    }
+  ],
+  "description": "Land of the goddess of nature.",
+  "image": "https://raw.githubusercontent.com/Nachota66/Lands_CryptoGods/main/Land%20Artemisa.png",
+  "name": "Land Artemisa"
+}
